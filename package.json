@@ -1,0 +1,17 @@
+{
+  "name": "noiseblock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kevin Liu <kevin@kliu.io>",
+  "license": "GPL-3.0+",
+  "devDependencies": {
+    "parcel-plugin-web-extension": "^1.6.1",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "webextension-polyfill-ts": "^0.19.0"
+  },
+  "browserslist": [
+    "last 1 Firefox version"
+  ]
+}
